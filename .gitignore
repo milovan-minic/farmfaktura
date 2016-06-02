@@ -12,3 +12,4 @@ atlassian-ide-plugin.xml
 /logs/access.log
 /logs/error.log
 composer.phar
+/files/*.*
